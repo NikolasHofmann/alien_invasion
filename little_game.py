@@ -11,7 +11,7 @@ background = pygame.Surface(window)
 background.fill((255,90,0))
 
 
-# left, right, width, height
+# left, right, width, height #
 
 
 
